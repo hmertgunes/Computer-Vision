@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from glob import glob
 
 # Re-size all the images
-image_size = [100, 100] 
+image_size = [224, 224] 
 
 # Training config
 epochs = 5
